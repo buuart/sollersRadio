@@ -6,7 +6,7 @@
 # =============== imports ================
 import time, random, os, subprocess, requests
 # ================ define ================
-radioListFolder='/home/pi/Music/'
+radioListFolder='/home/pi/sollersRadio/Music/'
 killStartPause=1
 pkillCommand='killall vlc'
 vlcRunCommand='cvlc'
